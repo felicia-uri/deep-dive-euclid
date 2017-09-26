@@ -1,3 +1,5 @@
 # deep-dive-euclid
 Euclid's Algorithm!
-*Works with int values.
+*Works with int values.*
+
+[JavaDoc](docs/index.html)
